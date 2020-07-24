@@ -1,6 +1,6 @@
 health: 100
 name: And Gate
-description: a & b > 0
+description: if two inputs are activated, a signal will be activated
 update: true
 targetable: false
 rotate: true
