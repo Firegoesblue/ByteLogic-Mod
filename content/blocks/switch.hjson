@@ -1,6 +1,6 @@
 health: 100
 name: Switch
-description: YES
+description: interact to turn it on or off
 update: true
 targetable: false
 rotate: true
