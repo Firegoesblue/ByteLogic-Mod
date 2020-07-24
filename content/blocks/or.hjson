@@ -1,6 +1,6 @@
 health: 100
 name: Or Gate
-description: a > 0 or b > 0
+description: if any inputs is activated, it will activate
 update: true
 targetable: false
 rotate: true
