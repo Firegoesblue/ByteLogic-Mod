@@ -1,6 +1,6 @@
 health: 100
 name: Not Gate
-description: !a
+description:  When turned on, it will deactivate
 update: true
 targetable: false
 rotate: true
