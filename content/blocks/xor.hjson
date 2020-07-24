@@ -1,6 +1,6 @@
 health: 100
 name: Xor Gate
-description: a > 0 and b = 0 or b > 0 and a = 0
+description: A modified version of or, but when two imputs are on, it will not send a signal
 update: true
 targetable: false
 rotate: true
